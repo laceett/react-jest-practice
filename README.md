@@ -1,7 +1,20 @@
-My Article code example on "Practical Guide to testing React Applications with Jest"
+# react-jest-practice
 
-Clone this repo
+**Reference:**
 
-Run npm install
+[My Article code example on "Practical Guide to testing React Applications with Jest"](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/)
 
-Run npm start
+## Process Of Running A Test With Jest
+
+
+### Steps
+
+- Clone this repo
+
+- Run `npm install`
+
+- Run `npm start`
+
+- Run `npm test`
+
+
